@@ -1095,3 +1095,5 @@ podcast:
       file_byte_length: "26387703"
       duration: "00:26:56"
       credits: "Anna Carey & Daniel Doubrovkine"
+
+theme: jekyll-theme-slate
